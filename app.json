@@ -20,5 +20,5 @@
   },
   "scripts": {
     "postdeploy": "php artisan --no-ansi key:generate"
-  }
+  }
 }
