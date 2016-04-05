@@ -16,9 +16,10 @@
     "STORMPATH_APPLICATION_HREF": {
       "description": "The URL for your Stormpath Application from the Stormpath Admin Dashboard",
       "value": "changeme"
+    },
+    "APP_KEY": {
+      "description": "A Sample App Key for you application.  You should run php artisan key:generate to create a new one",
+      "value": "base64:xAUXp9L+7SkWtss2wVVmYWIDJDhbgyyDnJkEkJ3winU="
     }
-  },
-  "scripts": {
-    "postdeploy": "./post_deploy.sh" 
   }
 }
