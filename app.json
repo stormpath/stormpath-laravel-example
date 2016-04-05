@@ -19,6 +19,6 @@
     }
   },
   "scripts": {
-    "postdeploy": "mv .env.example .env && php artisan --no-ansi key:generate" 
+    "postdeploy": "./post_deploy.sh" 
   }
 }
