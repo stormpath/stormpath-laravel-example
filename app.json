@@ -19,6 +19,9 @@
     }
   },
   "scripts": {
-    "postdeploy": "touch .env && php artisan --no-ansi key:generate"
+    "postdeploy": [
+      "mv .env.example .env"
+      "php artisan --no-ansi key:generate"
+    ] 
   }
 }
