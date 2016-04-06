@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6110814d23b55e18b57a8de8240c2935",
-    "content-hash": "5270a99a9d27549103d171d4b3fcb331",
+    "hash": "e29a59536d5953e1f98b7e9255bd134a",
+    "content-hash": "e486c28249ab41ac97d50f65b966f8b5",
     "packages": [
         {
             "name": "bretterer/iso_duration_converter",
@@ -1158,16 +1158,16 @@
         },
         {
             "name": "stormpath/laravel",
-            "version": "0.3.1",
+            "version": "0.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stormpath/stormpath-laravel.git",
-                "reference": "e8ba76df7b985922ed4ce918e0429673400c05b3"
+                "reference": "564121ba3ab5474c7d7c3d0aefd84d1c901b858a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stormpath/stormpath-laravel/zipball/e8ba76df7b985922ed4ce918e0429673400c05b3",
-                "reference": "e8ba76df7b985922ed4ce918e0429673400c05b3",
+                "url": "https://api.github.com/repos/stormpath/stormpath-laravel/zipball/564121ba3ab5474c7d7c3d0aefd84d1c901b858a",
+                "reference": "564121ba3ab5474c7d7c3d0aefd84d1c901b858a",
                 "shasum": ""
             },
             "require": {
@@ -1214,7 +1214,7 @@
                 "laravel",
                 "stormpath"
             ],
-            "time": "2016-03-17 14:57:21"
+            "time": "2016-04-06 19:44:44"
         },
         {
             "name": "stormpath/sdk",
